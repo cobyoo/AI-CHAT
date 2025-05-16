@@ -1,0 +1,3 @@
+openai==1.78.1
+langfuse==1.6.3
+python-dotenv
